@@ -1,0 +1,21 @@
+{
+    "name": "shlneopixel",
+    "version": "0.7.0",
+    "description": "AdaFruit NeoPixel driver-shl",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "shlneopixel.ts",
+        "sendBuffer.asm",
+        "_locales/zh-cn/neopixel-strings.json",
+        "_locales/de/neopixel-strings.json",
+        "_locales/de/neopixel-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "shlneotest.ts"
+    ],
+    "public": true
+}
